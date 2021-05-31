@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  flex-basis: 25%;
+  padding-left: 2px;
+  background-color: white;
+}
+.pokedex {
+  text-align: center;
+}

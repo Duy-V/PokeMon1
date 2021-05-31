@@ -1,0 +1,25 @@
+.pokemon-name {
+  font-size: 20px;
+  font-size: 20px;
+}
+
+.pokemon {
+  flex: 25% 1 auto;
+}
+.pokemon {
+  border: 0.2rem solid bisque;
+  border-radius: 10px;
+}
+.pokemon img:hover {
+  transform: scale(1.25);
+  opacity: 0.7;
+}
+.pokecard-img img {
+  transition: all ease 500ms;
+}
+.pokemon-img {
+  height: 150px;
+  width: 200px;
+  padding: 0;
+  margin: 0;
+}
